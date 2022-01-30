@@ -11,6 +11,10 @@ We will cover :
 2. Defining a class in Python
 3. Defining Instance methods in Python
 
+
+
+
+
 1. What is OOP in Python?
 
 Object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects.
@@ -52,12 +56,10 @@ Creating a new object from a class is called instantiating an object. You can in
 
 Instance methods are functions that are defined inside a class and can only be called from an instance of that class. Just like .__init__(), an instance method’s first parameter is always self.
 
-Open a new editor window in IDLE and type in the following Car class:
-
-
 This Car class has two instance methods:
 
 .description() returns a string displaying the color and model of the car.
 
 
-Save the modified Car class to a file called car.py and press F5 to run the program. Then open the interactive window and type the following to see your instance methods in action:
+Try it on your machine. Here's my simple code!
+
